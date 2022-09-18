@@ -2,6 +2,7 @@
   "permissions": {
     "api": {
       "boyakiGql": [
+        "Query",
         "Mutation"
       ]
     }
