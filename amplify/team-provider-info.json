@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-boyaki-dev-55416-authRole",
+      "UnauthRoleArn": "arn:aws:iam::074682543290:role/amplify-boyaki-dev-55416-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::074682543290:role/amplify-boyaki-dev-55416-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-boyaki-dev-55416-deployment",
+      "UnauthRoleName": "amplify-boyaki-dev-55416-unauthRole",
+      "StackName": "amplify-boyaki-dev-55416",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:074682543290:stack/amplify-boyaki-dev-55416/56803c80-325f-11ed-a5e0-0eb548589c35",
+      "AmplifyAppId": "d1dy0zm4el36q7"
+    },
+    "categories": {
+      "auth": {
+        "boyakie421ae66": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1dy0zm4el36q7",
+          "type": "manual"
+        }
+      },
+      "function": {
+        "createPostAndTimeline": {
+          "deploymentBucketName": "amplify-boyaki-dev-55416-deployment",
+          "s3Key": "amplify-builds/createPostAndTimeline-445a70456c6e67736d76-build.zip"
+        }
+      }
+    }
+  }
+}
